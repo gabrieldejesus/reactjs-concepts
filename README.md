@@ -18,7 +18,7 @@
   </a>
 </p>
 
-🚀 About the challenge
+## 🚀 About the challenge
 
 The objective of this challenge was to list, add and remove repositories for an API being able to create a list with the title field of all repositories that are registered in that API.
 
